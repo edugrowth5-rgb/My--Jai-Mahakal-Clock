@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mahakal-clock-v1';
+const CACHE_NAME = 'mahakal-clock-v1.1';
 const assets = [
   './',
   './index.html',
